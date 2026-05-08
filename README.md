@@ -39,6 +39,12 @@ The objective was to identify customers likely to leave a service and improve pr
 
 ---
 
+## Dataset
+
+The dataset used in this project was obtained from a public online source for educational and analytical purposes.
+
+---
+
 ## Author
 
 Javid Nurulu  
